@@ -4,7 +4,7 @@ on:
     inputs: 
       ipa_url:
         description: "URL to the decrypted IPA file"
-        default: ""
+        default: "https://filebin.net/rihd6egww97kbqv5"
         required: true
         type: string
 
